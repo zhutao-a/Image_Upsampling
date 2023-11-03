@@ -1,0 +1,12 @@
+!SESSION 2023-03-18 16:53:52.099 -----------------------------------------------
+eclipse.buildId=2018.3
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:/Users/password_is_447/Desktop/BaiduSyncdisk/CICC1837比赛资料/杯赛作品/vivado/fpga_hdmi/fpga_jjw1.sdk
+
+This is a continuation of log file C:\Users\password_is_447\Desktop\BaiduSyncdisk\CICC1837比赛资料\杯赛作品\vivado\fpga_hdmi\fpga_jjw1.sdk\.metadata\.bak_0.log
+Created Time: 2023-03-18 21:04:17.921
+
+!ENTRY com.xilinx.sdk.utils 1 0 2023-03-18 21:04:17.921
+!MESSAGE Executed Webtalk command

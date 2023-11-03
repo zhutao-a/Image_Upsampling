@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Aug 21 16:13:55 2022
+# Process ID: 21692
+# Current directory: C:/Users/master/Desktop/final/CICC1837比赛资料/杯赛作品/vivado/fpga_hdmi/fpga_jjw1.runs/synth_1
+# Command line: vivado.exe -log sys_bd_design_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sys_bd_design_wrapper.tcl
+# Log file: C:/Users/master/Desktop/final/CICC1837比赛资料/杯赛作品/vivado/fpga_hdmi/fpga_jjw1.runs/synth_1/sys_bd_design_wrapper.vds
+# Journal file: C:/Users/master/Desktop/final/CICC1837比赛资料/杯赛作品/vivado/fpga_hdmi/fpga_jjw1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sys_bd_design_wrapper.tcl -notrace

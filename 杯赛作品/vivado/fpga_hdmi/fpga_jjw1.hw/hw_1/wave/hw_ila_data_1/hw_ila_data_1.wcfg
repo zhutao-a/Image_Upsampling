@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/master/Desktop/image_process/vivado/fpga_jjw3/fpga_jjw1.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1024000fs"></ZoomEndTime>
+      <Cursor1Time time="3000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="266"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="37" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARADDR" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARADDR[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARBURST" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARBURST[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARCACHE" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARCACHE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARCACHE[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARLEN" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARLEN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARLEN[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARLOCK" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARLOCK</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARLOCK</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARPROT" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARPROT[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARQOS" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARQOS[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARQOS[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARSIZE" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARSIZE[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARVALID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARVALID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWADDR" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWADDR[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWBURST" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWBURST[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWCACHE" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWCACHE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWCACHE[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_WDATA" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_WDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_WDATA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWLEN" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWLEN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWLEN[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWLOCK" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWLOCK</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWLOCK</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWPROT" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWPROT[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWQOS" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWQOS[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWQOS[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWSIZE" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWSIZE[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RREADY" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RREADY</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWVALID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_WLAST" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_WLAST</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_WLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_BREADY" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_BREADY</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_BREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_BVALID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_BVALID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_BVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_WSTRB" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_WSTRB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_WSTRB[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_WVALID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_WVALID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_WVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_BRESP" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_BRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RDATA" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RDATA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_ARREADY" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_ARREADY</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_ARREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_BID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_BID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_BID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RLAST" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RLAST</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RRESP" type="array">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_RVALID" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_RVALID</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_RVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_WREADY" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_WREADY</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_WREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="sys_bd_design_i/S00_AXI_1_AWREADY" type="logic">
+      <obj_property name="ElementShortName">sys_bd_design_i/S00_AXI_1_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">S00_AXI_1_AWREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

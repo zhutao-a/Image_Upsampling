@@ -1,0 +1,10 @@
+vhdl xil_defaultlib  \
+"../../../bd/sys_bd_design/ip/sys_bd_design_rst_ps7_0_50M_0/sim/sys_bd_design_rst_ps7_0_50M_0.vhd" \
+"../../../bd/sys_bd_design/ip/sys_bd_design_axi_vdma_0_1/sim/sys_bd_design_axi_vdma_0_1.vhd" \
+"../../../bd/sys_bd_design/ip/sys_bd_design_v_tc_0_1/sim/sys_bd_design_v_tc_0_1.vhd" \
+"../../../../fpga_jjw1.srcs/sources_1/bd/sys_bd_design/ipshared/ab26/src/axi_dynclk_S00_AXI.vhd" \
+"../../../../fpga_jjw1.srcs/sources_1/bd/sys_bd_design/ipshared/ab26/src/axi_dynclk.vhd" \
+"../../../bd/sys_bd_design/ip/sys_bd_design_axi_dynclk_0_1/sim/sys_bd_design_axi_dynclk_0_1.vhd" \
+"../../../bd/sys_bd_design/ip/sys_bd_design_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_267f_psr_aclk_0.vhd" \
+
+nosort
